@@ -1,0 +1,264 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+font-size: 100%;
+
+}
+h1{
+    color: #343352;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+img{
+    max-width: 100%;
+}
+body {
+font-family: "SolaimanLipi";
+font-weight: 400;
+color: #383755;
+}
+header{
+
+}
+.header-top{
+    background: #E02F36;
+    max-width: 100%;
+    
+}
+header .top-menu{
+color: #fff;
+font-family: "SolaimanLipi";
+max-width: 95%;
+text-align: center;
+
+}
+
+header .top-menu ul{
+    font-size: 18px;
+    list-style: none;
+    padding: 25px 0px;
+}
+header .top-menu ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+header .top-menu ul li a{
+  color: #fff;
+  
+}
+
+
+i.fa-phone-volume{
+    transform: rotate(-40deg);
+}
+span{
+margin-right: 5px;
+}
+.span{
+max-width: 5%;
+position: absolute;
+top: 0;
+right: 0;
+margin-right: 50px;
+margin-top: 25px;
+}
+
+.header-body{
+    max-width: 93%;
+    margin: auto;
+   
+}
+.body-top{
+overflow: hidden;
+margin-top: 50px;
+padding-bottom: 50px;
+
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{
+   width: 200px;
+}
+.main-menu {
+	width: 80%;
+	float: left;
+    text-align: right;
+   
+}
+.main-menu ul{
+list-style: none;
+}
+.main-menu ul li{
+display: inline-block;
+position: relative;
+
+}
+.main-menu ul li a{
+    display: block;
+    text-decoration: none;
+    color: #343352;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 0 15px;
+}
+.main-menu ul .last-child{
+    border: 2px solid red;
+    padding: 5px;
+    border-radius: 25px;
+
+}
+.main-menu ul li a:hover{
+color: red;
+}
+.main-menu .active a{
+    color: red;
+}
+.main-menu ul ul{
+    list-style: none;
+    position: absolute;
+    top: 30px;
+    left: -99999999px;
+    width: 200px;
+   transition: 0.3s;
+   
+}
+.main-menu ul li:hover ul{
+    left: 0;
+}
+.main-menu ul li ul li{
+    display: block;
+  
+}
+.main-menu ul ul a{
+    text-align: left;
+    padding: 5px 0px;
+  
+ 
+ 
+}
+.main-menu ul ul a:hover{
+    color: rgb(241, 43, 43);
+}
+
+
+.body-header{
+overflow: hidden;
+clear: both;
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
+.body-header .body-text{
+width: 50%;
+float: left;
+padding-left: 30px;
+}
+.body-header .body-text h1{
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.body-header .body-text p{
+    font-size: 18px;
+    width: 488px;
+    text-align: justify;
+    margin-bottom: 35px;
+}
+.body-header .body-text a{
+    color: #343352;
+    border-bottom: 2px solid red;
+   margin-left: 25px;
+    padding-bottom: 5px;
+}
+button {
+    background: red;
+    color: #fff;
+    padding: 20px 35px;
+    border-radius: 50px;
+    border: none;
+}
+.body-header .body-video{
+    width: 50%;
+    float: left;
+    text-align: right;
+    padding-top: 20px;
+    
+}
+.body-video iframe{
+    border-radius: 10px;
+    position: relative;
+    margin-right: 50px;
+ 
+}
+.body-video .border-div{
+    width: 560px;
+    height: 320px;
+    border-radius: 10px;
+    border: 5px solid red;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 23%;
+    margin-right: 5%;
+    z-index: -1;
+}
+:focus{
+    outline: none;
+}
+
+hr{
+    max-width: 93%;
+    margin: auto;
+    height: 1px;
+    color: rgba(250, 245, 245, 0.5);
+}
+/* Footer Section */
+footer{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.footer-menu {
+padding-bottom: 20px;
+}
+.footer-menu ul {
+    
+}
+.footer-menu ul li{
+    display: inline-block;
+}
+.footer-menu ul li a{
+    display: block;
+    text-decoration: none;
+    color: #343352;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 0 15px;
+}
+.footer-menu ul li a:hover{
+    color: red;
+}
+
+.footer-menu .active a{
+    color: red;
+}
+.footer-menu ul .child{
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 25px;
+
+}
+
+.copy-right{
+    text-align: center;
+}

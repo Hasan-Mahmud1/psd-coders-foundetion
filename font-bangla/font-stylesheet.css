@@ -1,0 +1,130 @@
+@font-face {
+    font-family: 'SolaimanLipi';
+    src: url('SolaimanLipiNormal.eot');
+    src: url('SolaimanLipiNormal.eot?#iefix') format('embedded-opentype'),
+        url('SolaimanLipiNormal.woff2') format('woff2'),
+        url('SolaimanLipiNormal.woff') format('woff'),
+        url('SolaimanLipiNormal.ttf') format('truetype'),
+        url('SolaimanLipiNormal.svg#SolaimanLipiNormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Siyam Rupali ANSI';
+    src: url('SiyamRupaliANSI.eot');
+    src: url('SiyamRupaliANSI.eot?#iefix') format('embedded-opentype'),
+        url('SiyamRupaliANSI.woff2') format('woff2'),
+        url('SiyamRupaliANSI.woff') format('woff'),
+        url('SiyamRupaliANSI.ttf') format('truetype'),
+        url('SiyamRupaliANSI.svg#SiyamRupaliANSI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Siyam Rupali';
+    src: url('SiyamRupali.eot');
+    src: url('SiyamRupali.eot?#iefix') format('embedded-opentype'),
+        url('SiyamRupali.woff2') format('woff2'),
+        url('SiyamRupali.woff') format('woff'),
+        url('SiyamRupali.ttf') format('truetype'),
+        url('SiyamRupali.svg#SiyamRupali') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AponaLohit';
+    src: url('AponaLohit.eot');
+    src: url('AponaLohit.eot?#iefix') format('embedded-opentype'),
+        url('AponaLohit.woff2') format('woff2'),
+        url('AponaLohit.woff') format('woff'),
+        url('AponaLohit.ttf') format('truetype'),
+        url('AponaLohit.svg#AponaLohit') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kalpurush';
+    src: url('Kalpurush.eot');
+    src: url('Kalpurush.eot?#iefix') format('embedded-opentype'),
+        url('Kalpurush.woff2') format('woff2'),
+        url('Kalpurush.woff') format('woff'),
+        url('Kalpurush.ttf') format('truetype'),
+        url('Kalpurush.svg#Kalpurush') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mukti';
+    src: url('Mukti.eot');
+    src: url('Mukti.eot?#iefix') format('embedded-opentype'),
+        url('Mukti.woff2') format('woff2'),
+        url('Mukti.woff') format('woff'),
+        url('Mukti.ttf') format('truetype'),
+        url('Mukti.svg#Mukti') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BenSenHandwriting';
+    src: url('BenSenHandwriting.eot');
+    src: url('BenSenHandwriting.eot?#iefix') format('embedded-opentype'),
+        url('BenSenHandwriting.woff2') format('woff2'),
+        url('BenSenHandwriting.woff') format('woff'),
+        url('BenSenHandwriting.ttf') format('truetype'),
+        url('BenSenHandwriting.svg#BenSenHandwriting') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kalpurush ANSI';
+    src: url('KalpurushANSI.eot');
+    src: url('KalpurushANSI.eot?#iefix') format('embedded-opentype'),
+        url('KalpurushANSI.woff2') format('woff2'),
+        url('KalpurushANSI.woff') format('woff'),
+        url('KalpurushANSI.ttf') format('truetype'),
+        url('KalpurushANSI.svg#KalpurushANSI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AdorshoLipi';
+    src: url('AdorshoLipi.eot');
+    src: url('AdorshoLipi.eot?#iefix') format('embedded-opentype'),
+        url('AdorshoLipi.woff2') format('woff2'),
+        url('AdorshoLipi.woff') format('woff'),
+        url('AdorshoLipi.ttf') format('truetype'),
+        url('AdorshoLipi.svg#AdorshoLipi') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mitra Mono';
+    src: url('Mitra.eot');
+    src: url('Mitra.eot?#iefix') format('embedded-opentype'),
+        url('Mitra.woff2') format('woff2'),
+        url('Mitra.woff') format('woff'),
+        url('Mitra.ttf') format('truetype'),
+        url('Mitra.svg#Mitra') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
